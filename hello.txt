@@ -1,8 +1,8 @@
 hello  txt
+<<<<<<< HEAD
 new fenzhi de
 hello  git 
 hello  git
-hello  git
-hello  git
 hello  git master
-
+new fenzhi de 
+he master qufen de biaoji`
